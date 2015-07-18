@@ -1,0 +1,60 @@
+# Pinout #
+
+## Top View ##
+
+ ―――A―――    ―――P―――
+|\  |  /|  |\  |  /|
+B C D H I  Q R S W X
+|  \|/  |  |  \|/  |
+ ―E― ―J―    ―T― ―Y―
+|  /|\  |  |  /|\  |
+F G K L M  U V Z 0 1
+|/  |  \|  |/  |  \|
+ ―――N―――O   ―――2―――3
+
+
+## Bottom View (horizonal flip) ##
+
+a   b   c d   e f
+
+
+
+
+
+g h   i j k l   m
+
+
+## Wiring ##
+
+ Segment | Anode | Cathode
+:=======:|:=====:|:=======:
+    A    |   b   |    d
+    B    |   c   |    d
+    C    |   f   |    d
+    D    |   e   |    d
+    E    |   m   |    d
+    F    |   k   |    d
+    G    |   l   |    d
+    H    |   f   |    j
+    I    |   c   |    j
+    J    |   m   |    j
+    K    |   e   |    j
+    L    |   l   |    j
+    M    |   k   |    j
+    N    |   b   |    j
+    O    |   i   |    j
+    P    |   b   |    h
+    Q    |   c   |    h
+    R    |   f   |    h
+    S    |   e   |    h
+    T    |   m   |    h
+    U    |   k   |    h
+    V    |   l   |    h
+    W    |   f   |    a
+    X    |   c   |    a
+    Y    |   m   |    a
+    Z    |   e   |    a
+    0    |   l   |    a
+    1    |   k   |    a
+    2    |   b   |    a
+    3    |   g   |    a
