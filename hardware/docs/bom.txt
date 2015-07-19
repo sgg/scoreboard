@@ -1,0 +1,9 @@
+Shift Register      ST M74HC595TTR (TSSOP16)        x3
+2.3in 7-seg         Kingbright SC23-11EWA           x2
+MCU                 NXP LPC11U24FBD48/301           x1
+VR                  Skyworks AAT3221IGV-3.3-T1      x1
+Resistor Pack
+Boost Transistor
+Buffer Transistor
+Passives
+
